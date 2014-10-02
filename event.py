@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        event.py
-# Purpose: manipulate the movement of a beach ball
+# Purpose: manipulate the movement of a beach ball using event handling
 #
 # Author: Sabastian Mugazambi
 #
